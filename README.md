@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dfront%2Bend%2Bdeveloper&psig=AOvVaw3K6hih7Kx0GxYBh42vP91K&ust=1666104186485000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLChhvO_5_oCFQAAAAAdAAAAABAO)]
+[![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)]
 <h1 align="center">Hi 👋, I'm Vishal Ghuge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"  width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-dx-developer-experience-401a0e44a9d9&psig=AOvVaw0JiqTEznfjrltnTty2Ynvi&ust=1666103757320000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMinoaa-5_oCFQAAAAAdAAAAABAn" alt="coding" srcset="">
+<img align="right"  width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="coding" srcset="">
 i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-ghuge&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ghuge" /> </p>
