@@ -1,7 +1,7 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)]
+![MasterHead](https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/257506993/original/209182ca79acde211771f5bf72daa11f0fbecaa5.png)
 <h1 align="center">Hi 👋, I'm Vishal Ghuge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"  width="500" height='' src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="coding" srcset="">
+<img align="right"  width="400" height='' src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="coding" srcset="">
 i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-ghuge&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ghuge" /> </p>
